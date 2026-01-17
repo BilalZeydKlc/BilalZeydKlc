@@ -15,7 +15,7 @@ Teknoloji dünyasında kullanıcı deneyimini ön planda tutan projeler gelişti
 
 ### 🚀 Şu An Ne Yapıyorum?
 - 🌱 **SwiftUI** mimarisi ve modern mobil tasarım prensipleri üzerine çalışıyorum.
-- 🔭 **.NET** ile backend tarafındaki yetkinliklerimi güçlendiriyorum.
+- 🔭 **Programlama Temelleri:** C# ile nesne yönelimli programlama (OOP) yapılarını pekiştiriyorum.
 - 🎓 Akademik projelerimle portföyümü zenginleştiriyorum.
 
 ---
