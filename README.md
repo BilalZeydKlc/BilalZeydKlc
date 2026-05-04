@@ -1,6 +1,6 @@
 ### Merhaba, Ben Bilal Zeyd Kılıç! 👋
 
-**İstanbul Okan Üniversitesi Mobil Teknolojileri** bölümü öğrencisiyim. Mobil uygulama geliştirme (iOS, Android) ve Web teknolojileri üzerine odaklanıyorum.
+**İstanbul Okan Üniversitesi Mobil Teknolojileri** bölümü öğrencisiyim. Mobil uygulama geliştirme iOS ve Web teknolojileri üzerine odaklanıyorum.
 
 Teknoloji dünyasında kullanıcı deneyimini ön planda tutan projeler geliştirmeyi ve sürekli öğrenmeyi hedefliyorum.
 
